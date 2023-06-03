@@ -1,1 +1,1 @@
-# Visao-Computacional-COM530-UNIVESP
+# Visão Computacional[COM530][UNIVESP]
